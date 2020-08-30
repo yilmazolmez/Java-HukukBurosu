@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\tcmaltundag\Desktop\analiz proje\hukukburosu\.metadata\.plugins\org.eclipse.jdt.core
+1671692264.index
